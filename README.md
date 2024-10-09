@@ -14,7 +14,7 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like completing 
 
 - ✏️ My Blog [https://medium.com/@petervancleave1](https://medium.com/@petervancleave1)
 
-- 📫 How to reach me **pvanclea@msudenver.edu**
+- 📫 How to reach me **petervancleave1@gmail.com**
 
 #
 <div align="center">
