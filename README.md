@@ -6,14 +6,43 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like completing 
 
 #
 
+- ⚙️ I’m currently working on [SIEM Implementation with Open Source Tools](https://github.com/petervancleave/Open-Source-SIEM-Implementation)
+
+- 🌱 I’m studying **CompTIA Sec+, CompTIA Network+, OSCP+**
+
+- 📄 My Portfolio [https://petervancleave.github.io/](https://petervancleave.github.io/)
+
+- ✏️ My Blog [https://medium.com/@petervancleave1](https://medium.com/@petervancleave1)
+
+- 📫 How to reach me **pvanclea@msudenver.edu**
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=petervancleave&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
     <img src="https://github-readme-stats.vercel.app/api?username=petervancleave&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
 </div>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
 #
 <div align="center">
   <img src="https://studioghibli.jp/static/media/butterfly.8e1a40df.gif" alt="cabbage moths"  />
 
   </div>
+
+#
+
+<h3 align="center">Latest Blog Posts:</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+#
+
+<p align="center">
+<a href="https://twitter.com/petervancleave" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petervancleave" height="30" width="40" /></a>
+<a href="https://instagram.com/pvc.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvc.37" height="30" width="40" /></a>
+<a href="https://medium.com/@petervancleave1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@petervancleave1" height="30" width="40" /></a>
+</p>
