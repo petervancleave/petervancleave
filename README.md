@@ -14,6 +14,6 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like completing 
 
 #
 <div align="center">
-  <img src="https://64.media.tumblr.com/e9e5952e2261cb6e04e59e530ec696d0/83fca5b53910cd85-cf/s500x750/4a3b1433b0b01e9bfc2b7cdac7daede6fd0e6843.gifv" alt="swaying flowers"  />
+  <img src="https://studioghibli.jp/static/media/butterfly.8e1a40df.gif" alt="cabbage moths"  />
 
   </div>
