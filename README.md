@@ -12,8 +12,6 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like completing 
 
 - 📄 My Portfolio [https://petervancleave.github.io/](https://petervancleave.github.io/)
 
-- ✏️ My Blog [https://medium.com/@petervancleave1](https://medium.com/@petervancleave1)
-
 - 📫 How to reach me **petervancleave1@gmail.com**
 
 #
@@ -37,10 +35,6 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like completing 
 
 <h3 align="center">Latest Blog Posts:</h3>
 
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 #
 
