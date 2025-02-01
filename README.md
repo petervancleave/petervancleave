@@ -6,7 +6,6 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like completing 
 
 #
 
-- ⚙️ I’m currently working on [SIEM Implementation with Open Source Tools](https://github.com/petervancleave/Open-Source-SIEM-Implementation)
 
 - 🌱 I’m studying **CompTIA Sec+, CompTIA Network+, OSCP+**
 
