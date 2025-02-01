@@ -2,7 +2,7 @@
 
 ```Cybersecurity and Cloud Computing```
 
-I'm a cybersecurity student currently enrolled at MSU Denver. I like completing wargames, coding, and learning as much as I can about anything cyber related. 
+I'm a cybersecurity student currently enrolled at MSU Denver. I like wargames, coding, and learning as much as I can about anything cyber related. 
 
 #
 
