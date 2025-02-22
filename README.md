@@ -7,7 +7,7 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like wargames, c
 #
 
 
-- 🌱 I’m studying **CompTIA Sec+, CompTIA Network+, OSCP+**
+- 🌱 I’m studying **CompTIA Sec+, CompTIA Network+**
 
 - 📄 My Portfolio [https://petervancleave.github.io/](https://petervancleave.github.io/)
 
