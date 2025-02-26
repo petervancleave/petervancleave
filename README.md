@@ -33,6 +33,6 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like wargames, c
 #
 
 <p align="center">
-<a href="https://x.com/maala3xx" target="blank"  rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petervancleave" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/peter-van-cleave-89814332a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/pvc.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pvc.37" height="30" width="40" /></a>
 </p>
