@@ -2,7 +2,6 @@
 
 ```Cyber```
 
-I'm a cybersecurity student currently enrolled at MSU Denver. I like wargames, coding, and learning as much as I can about anything cyber related. 
 
 #
 
