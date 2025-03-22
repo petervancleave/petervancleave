@@ -6,8 +6,7 @@ I'm a cybersecurity student currently enrolled at MSU Denver. I like learning ab
 
 <div>
   <iframe 
-    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3084935" 
-    style='border:none;'>
+    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3084935" style='border:none;'>
     
     </iframe>
 </div>
