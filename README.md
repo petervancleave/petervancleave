@@ -2,7 +2,7 @@
 
 ```Cyber```
 
-I'm a cybersecurity student currently enrolled at MSU Denver. I like learning about anything tech or math related.
+I'm a cybersecurity student currently enrolled at MSU Denver. I like learning about anything tech related.
 
 #
 
