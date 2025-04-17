@@ -5,7 +5,7 @@
   <p>
     🌱 I’m studying <strong>CompTIA Sec+, OSCP</strong><br>
     📄 My Portfolio <a href="https://petervancleave.github.io/">https://petervancleave.github.io/</a><br>
-    📫 How to reach me <strong><a href="mailto:petervancleave1@gmail.com">petervancleave1@gmail.com</a></strong>
+    📫 How to reach me <a href="mailto:petervancleave1@gmail.com">petervancleave1@gmail.com</a>
   </p>
 </div>
 
