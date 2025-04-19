@@ -4,10 +4,10 @@
   <p>I'm a <strong>Cybersecurity</strong> student currently enrolled at <strong>MSU Denver</strong>.</p>
   <p>I am particularly interested in <strong>Offensive Security</strong> and am currently learning <strong>Web Exploitation</strong>.</p>
   <p>I like learning about anything tech related.</p>
-  <p>
-    🌱 I’m studying <strong>CompTIA Sec+, OSCP</strong><br>
-    📄 My Portfolio <a href="https://petervancleave.github.io/">https://petervancleave.github.io/</a><br>
-    📫 How to reach me <a href="mailto:petervancleave1@gmail.com">petervancleave1@gmail.com</a>
+  
+  <p>🌱 I’m studying <strong>CompTIA Sec+, OSCP</strong><br> </p>
+  <p>📄 My Portfolio <a href="https://petervancleave.github.io/">https://petervancleave.github.io/</a><br> </p>
+  <p>📫 How to reach me <a href="mailto:petervancleave1@gmail.com">petervancleave1@gmail.com</a>
   </p>
 </div>
 
