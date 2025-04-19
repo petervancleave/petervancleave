@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Peter Van Cleave</h1>
   <p><code>Cyber</code></p>
-  <p>I'm a cybersecurity student currently enrolled at MSU Denver. I like learning about anything tech related.</p>
+  <p>I'm a cybersecurity student currently enrolled at MSU Denver. 
+    I like learning about anything tech related.</p>
   <p>
     🌱 I’m studying <strong>CompTIA Sec+, OSCP</strong><br>
     📄 My Portfolio <a href="https://petervancleave.github.io/">https://petervancleave.github.io/</a><br>
