@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Peter Van Cleave</h1>
   <p><code>Cyber</code></p>
 I'm an undergraduate cybersecurity student at MSU Denver. I have a deep interest for defensive security and am determined to become a SOC analyst. I have a background in GIS and urban planning/design, receiving my Bachelor's degree in Urban Planning from CU Denver in 2022. My work in GIS saw me realize a new found interest in Python programming. Coupled with my lifelong love for technology, computers, and gaming, I decided to explore possibilities in the tech field. After some self learning, I found that cybersecurity/IT resonated with who I am and have found motivation to work on my security skills and theory rigorously every day since. I started my security journey through the Google Cybersecurity Certification which was a good introduction into the field. After some deliberation, I decided to take the risk of going back to school to study Cybersecurity; this is where I am today!
 
