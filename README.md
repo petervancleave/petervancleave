@@ -7,4 +7,4 @@ For the past two years, I've gained hands on experience as a SOC analyst through
 ---
 **Links to my Profiles:**
 
-**TryHackMe:** https://tryhackme.com/p/sska (Just Surpassed a 180-Day Streak!)
+**TryHackMe:** https://tryhackme.com/p/sska 
