@@ -7,4 +7,4 @@ For the past two years, I've been working as a SOC analyst with the Centurion Pr
 ---
 **Links to my Profiles:**
 
-**TryHackMe:** https://tryhackme.com/p/sska 
+**TryHackMe:** https://tryhackme.com/p/sska47
