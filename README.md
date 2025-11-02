@@ -7,7 +7,7 @@ For the past two years, I've been working as a SOC analyst with the Centurion Pr
 ---
 **Links to my Profiles:**
 
-**TryHackMe:** https://tryhackme.com/p/sska47
+**TryHackMe:** https://tryhackme.com/p/vyp47
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervancleave&show_icons=true&locale=en&layout=compact" alt="petervancleave" /></p>
