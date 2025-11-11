@@ -1,8 +1,6 @@
 <div align="left">
   <p><code>Cyber</code></p>
 
-**Links to my Profiles:**
-
 **TryHackMe:** https://tryhackme.com/p/VVi99
 
 
