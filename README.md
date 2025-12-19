@@ -3,4 +3,4 @@
 
 **TryHackMe:** https://tryhackme.com/p/azahhx
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3084935" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/azahhx.png" alt="Your Image Badge" />
