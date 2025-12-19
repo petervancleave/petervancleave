@@ -4,6 +4,6 @@
 **TryHackMe:** https://tryhackme.com/p/azahhx
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervancleave&show_icons=true&theme=vue&locale=en&layout=donut" alt="petervancleave" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petervancleave&show_icons=true&theme=default&locale=en&layout=donut" alt="petervancleave" /></p>
 
 
