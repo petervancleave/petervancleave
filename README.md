@@ -1,5 +1,5 @@
 <div align="left">
   <p><code>Cyber</code></p>
 
-**TryHackMe:** https://tryhackme.com/p/azahhx
+**TryHackMe:** https://tryhackme.com/p/fates
 
